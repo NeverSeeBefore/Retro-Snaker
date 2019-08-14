@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.control{
+    position: absolute;
+    width: 100px;
+    top: 100px;
+    left: 50px;
+}
+ul>li{
+    margin-bottom: 10px;
+}
